@@ -6,3 +6,4 @@ node_modules
 first.txt
 fs.js
 test.html
+.env
