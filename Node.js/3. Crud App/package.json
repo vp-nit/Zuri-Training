@@ -2,9 +2,9 @@
   "name": "crud_app",
   "version": "1.0.0",
   "description": "Simple web backend for creating, reading, updating and deleting data using node.js, express and mongodb",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
-    "script": "nodemon app.js"
+    "script": "nodemon src/app.js"
   },
   "author": "Vishnu Pratap Singh",
   "license": "ISC",
