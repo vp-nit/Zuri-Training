@@ -7,10 +7,10 @@ using node.js, express and mongodb.
 
 To get the Node server running locally:
 
-Clone this repo
-npm install to install all required dependencies
-Install MongoDB Community Edition (instructions) and run it by executing mongod
-npm start to start the local server
+- Clone this repo
+- npm install to install all required dependencies
+- Install MongoDB Community Edition (instructions) and run it by executing mongod
+- npm start to start the local server
 
 ### Prerequisites
 
