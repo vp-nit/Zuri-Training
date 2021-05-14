@@ -41,5 +41,5 @@ $ heroku open
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Deployment status
-I have deployed it on Heroku but so far it is not working, but it works fine locally. Below is the link=-
-https://crudapp-vps.herokuapp.com
+I have deployed it on Heroku and it works as expected on the local server but the deployed version is not working somehow. Below is the link -
+- https://crudapp-vps.herokuapp.com
