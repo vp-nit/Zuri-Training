@@ -8,7 +8,7 @@ router.get('/:id', messageCtrl.fetchSingleMessage);
 
 router.post('/', messageCtrl.createNewMessage);
 
-router.patch('/:id', messageCtrl.updadeSingleMessage);
+router.put('/:id', messageCtrl.updadeSingleMessage);
 
 router.delete('/:id', messageCtrl.deleteSingleMessage);
 
